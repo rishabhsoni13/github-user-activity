@@ -3,4 +3,7 @@ This project will help you practice your programming skills, including working w
 
 
 how to run ?
-type this in cli ---> node index.js <github username >
+type this in cli ---> node index.js github username 
+
+ url of project https://github.com/rishabhsoni13/github-user-activity/
+ 
